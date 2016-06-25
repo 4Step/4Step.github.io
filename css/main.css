@@ -1,4 +1,8 @@
-
+address {
+    display: block;
+    font-style: italic;
+    color:darkblue;
+}
 body {
     margin: 10px auto;
     width: 70%;
