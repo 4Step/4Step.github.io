@@ -1,2 +1,3 @@
 name: Amar Sarvepalli, 4Step Modeler
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
