@@ -1,3 +1,17 @@
 name: Amar Sarvepalli, 4Step Modeler
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+title: Amar Sarvepalli
+description: My Personal Blog
+author: Amar Sarvepalli
+social:
+    - icon: fa-facebook
+      link: '#'
+    - icon: fa-skype
+      link: '#'
+    - icon: fa-twitter
+      link: '#'
+    - icon: fa-linkedin
+      link: '#'
+    - icon: fa-stack-exchange
+      link: '#'

@@ -4,9 +4,7 @@ title: "El Capitan vs Windows7"
 date: 2016-06-24
 ---
 
-As we can see, name "Windows7" itself is boring, clearly shows lack of passion towards the product. Can't they name something like "reVista" (as in "redo of Vista").
-
-Why do I prefer Mac over Windows (El Capitan vs Windows7)? Well, here Windows is Windows& version not the latest Windows8 and Window10 and that is pretty obvious enough to say I prefer newer OS. If we are to compare windows 10 to latest Mac the overall differences maybe fewer or even down to one or two thighs such as UNIX shell and overall app integration on Mac. But since the Windows OS at work is Windows7, there are several disadvantages. Well it’s unfair to compare almost 6 year old Windows7 (using since 2010) to latest El Capitan Mac OS which is hardly a year old and is getting an update this fall.
+Why do I prefer Mac over Windows (El Capitan vs Windows7)? Well, here Windows is Windows7 version not the latest Windows8 and Window10 and that is pretty obvious enough to say I prefer newer OS. If we are to compare windows 10 to latest Mac the overall differences maybe fewer or even down to one or two thighs such as UNIX shell and overall app integration on Mac. But since the Windows OS at work is Windows7, there are several disadvantages. Well it’s unfair to compare almost 6 year old Windows7 (using since 2010) to latest El Capitan Mac OS which is hardly a year old and is getting an update this fall.
 
 
 
