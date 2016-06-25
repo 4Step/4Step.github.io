@@ -1,6 +1,9 @@
+
 body {
     margin: 10px auto;
     width: 70%;
+    border: 15px solid grey;
+    padding: 30px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -40,4 +43,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    color: red;
 }
