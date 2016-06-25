@@ -17,7 +17,7 @@ Here windows is at a disadvantage as we are not comparing latest windows (win 8 
 The following are a few programs that I use daily at work.
 
 1. **Jekyll** - A static website built from Github pages doesn’t officially support windows.. here is what Jekyll websites states:
-![No official support for windows](Jekyll_on_Windows.png). This blog is powered by [Jekyll](http://jekyllrb.com) on [Github](http://github.com) where blog posts were written in [Markdown](https://en.wikipedia.org/wiki/Markdown) and were edited in [Atom](https://atom.io/). All of this is seamless done via command line tools on Mac.
+![No official support for windows](Jekyll_on_Windows.png) This blog is powered by [Jekyll](http://jekyllrb.com) on [Github](http://github.com) where blog posts were written in [Markdown](https://en.wikipedia.org/wiki/Markdown) and were edited in [Atom](https://atom.io/). All of this is seamless done via command line tools on Mac.
 
 2. **GitHub**: Command line reference is one the easiest ways to operate Github and cmd on windows is not quite the same as the UNIX bash or Mac terminal in both capacity and quality. Sometimes using git cmd is unsupported as it complains on windows for powershell versions 2.0 vs 3.0. User never knows which shell version is required. Instead of dealing with this I use UNIX bash on PC, which is nearly the same as terminal on Mac but at times it crashes.
 
