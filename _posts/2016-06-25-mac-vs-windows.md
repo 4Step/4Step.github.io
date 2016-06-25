@@ -26,9 +26,10 @@ The following are a few programs that I use daily at work.
 brew install github
 brew install sqlitebrowser
 brew cask install sublime-text3
-
 ````
- Future version checks and updates can also be done in one step.  
+
+ Future version checks and updates can also be done in one step.
+
 ````
 brew update
 brew upgrade sqlitebrowser
