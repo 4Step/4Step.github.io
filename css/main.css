@@ -4,10 +4,10 @@ address {
     color:darkblue;
 }
 div.Highlight {
-    background-color: black;
-    color: white;
+    color: darkblue;
     margin: 20px 0 20px 0;
     padding: 20px;
+
 }
 section {
     line-height:30px;
@@ -23,6 +23,8 @@ body {
     width: 70%;
     border: 15px solid grey;
     padding: 10px;
+    background-image: url("abstracte_2.png");
+    background-position: top;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -33,13 +35,15 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: darkred;
 }
 a:hover {
     text-decoration: underline;
+    color: darkblue;
 }
 h1 {
     font-size: 3em;
