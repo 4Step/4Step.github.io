@@ -1,7 +1,7 @@
 address {
     display: block;
     font-style: italic;
-    color:darkblue;
+    color:darkgreen;
 }
 div.Highlight {
     color: darkblue;
@@ -17,11 +17,15 @@ section {
     float:left;
     padding:5px;
     border: 10px solid black;
+    background-image: url("abstracte_3.png");
+    background-position: top;
 }
 body {
     margin: 10px auto;
     width: 70%;
     border: 15px solid grey;
+    border-radius: 35px;
+    box-shadow: 10px 10px 10px black;
     padding: 10px;
     background-image: url("abstracte_2.png");
     background-position: top;
@@ -45,14 +49,19 @@ a:hover {
     text-decoration: underline;
     color: darkblue;
 }
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-image: url("abstracte.png");
+    background-position: center;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    text-align: justify;
+    text-indent: 50px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -62,6 +71,7 @@ footer {
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.0em;
+
 }
 
 ul.posts li {
