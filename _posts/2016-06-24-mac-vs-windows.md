@@ -83,7 +83,7 @@ The table below shows the current PB configuration and pricing for these models 
 
 | Memory              | type  | cache        | Size | type   | form | Keyboard | Weight   | size    |            |
 |---------------------|-------|--------------|------|--------|------|----------|----------|---------|------------|
-| (2012)](http://www.cnet.com/products/hp-elitebook-2560p-12-5-core-i7-2640m-windows-7-pro-64-bit-8-gb-ram-500-gb-hdd/specs/)      | 12 GB | DDR3         | 3 MB | 120 GB | SSD  | SSD      | standard | 4.0 lbs | 12.5"      |
+|[Current (2012)](http://www.cnet.com/products/hp-elitebook-2560p-12-5-core-i7-2640m-windows-7-pro-64-bit-8-gb-ram-500-gb-hdd/specs/)      | 12 GB | DDR3         | 3 MB | 120 GB | SSD  | SSD      | standard | 4.0 lbs | 12.5"      |
 | *Desired*             | 16 GB | DDR3 or DDR4 | 6 MB | 500 GB | SSD  | Pcle     | backlit  | < 5lbs  | 14" -15.6" |
 | [HP EliteBook 820 G2](http://store.hp.com/us/en/pdp/Laptops/hp-elitebook-820-g2-notebook-pc-%28energy-star%29-p-l3z41ut-aba--1) | 8 GB  | DDR3         | 4 MB | 256 GB | SSD  | SSD      |          | 2.94 lb | 12.5"      |
 | [HP EliteBook 840 G2](http://store.hp.com/us/en/pdp/Laptops/hp-elitebook-840-g2-notebook-pc-%28energy-star%29) | 8 GB  | DDR3         | 4 MB | 256 GB | SSD  | SSD      |          | 3.4 lb  | 14.0"      |
