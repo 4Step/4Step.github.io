@@ -4,7 +4,7 @@ title: "El Capitan vs Windows7"
 date: 2016-06-24
 ---
 
-Why do I prefer Mac over Windows (El Capitan vs Windows7)? Well, here Windows is Windows7 version not the latest Windows8 and Windows10 and that is pretty obvious enough to say I prefer newer OS. If we are to compare Windows 10 to latest Mac the overall differences maybe fewer or even down to one or two thighs such as UNIX shell and overall app integration on Mac. But since the Windows OS at work is Windows7, there are several disadvantages. Well it’s unfair to compare almost 6 year old Windows7 (using since 2010) to latest El Capitan Mac OS which is hardly a year old and is getting an update this fall.
+Why do I prefer Mac over Windows (El Capitan vs Windows7)? Well, here Windows is Windows7 version not the latest Windows8 and Windows10 and that is pretty obvious enough to say I prefer newer OS. If we are to compare Windows10 to latest Mac the overall differences maybe fewer or even down to one or two thighs such as UNIX shell and overall app integration on Mac. But since the Windows OS at work is Windows7, there are several disadvantages. Well it’s unfair to compare almost 6 year old Windows7 (using since 2010) to latest El Capitan Mac OS which is hardly a year old and is getting an update this fall.
 
 
 
@@ -12,7 +12,7 @@ Why do I prefer Mac over Windows (El Capitan vs Windows7)? Well, here Windows is
 The following are a few programs that I use daily at work.
 
 **1. Jekyll** - A static website built from Github pages doesn’t officially support windows.. here is what Jekyll websites states:
-![No official support for windows]({{ site.url }}/assets/Jekyll_on_Windows.png) This blog is powered by [Jekyll](http://jekyllrb.com) on [Github](http://github.com) where blog posts are written in [Markdown](https://en.wikipedia.org/wiki/Markdown) and are edited in [Atom](https://atom.io/). All of this is seamless done via command line tools on Mac.
+![No official support for windows]({{ site.url }}/assets/Jekyll_on_Windows.png) This blog is powered by [Jekyll](http://jekyllrb.com) on [Github](https://github.com/4Step/4Step.github.io) where blog posts are written in [Markdown](https://en.wikipedia.org/wiki/Markdown) and are edited in [Atom](https://atom.io/). All of this is seamless done via command line tools on Mac.
 
 **2. GitHub**: Command line reference is one the easiest ways to operate Github and cmd on windows is not quite the same as the UNIX bash or Mac terminal in both capacity and quality. Sometimes using git cmd is unsupported as it complains on windows for powershell versions 2.0 vs 3.0. User never knows which shell version is required. Instead of dealing with this I use UNIX bash on PC, which is nearly the same as terminal on Mac but at times it crashes.
 
