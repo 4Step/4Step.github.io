@@ -66,9 +66,8 @@ Increase ability to write programs in open source framework such as python or R 
 ## Pricing and Configuration
 The table below shows the current PB configuration and pricing for these models is downloaded from the HP website.
 
-| Price               | Processor |           |           |          |         |       |               |
+|   Type                  |  Price         | Series    | Processor | Gen      | Class   | Cores | clock speed   |
 |---------------------|-----------|-----------|-----------|----------|---------|-------|---------------|
-|                     |           | series    | processor | gen      | class   | Cores | clock speed   |
 | [Current (2012)](http://www.cnet.com/products/hp-elitebook-2560p-12-5-core-i7-2640m-windows-7-pro-64-bit-8-gb-ram-500-gb-hdd/specs/)     | $2,500    | i7-2640 M | i7        | 2nd      | M       | 2     | 2.8 GHz       |
 | *Desired*            | $2,500    |           | i7        | 4 or 5th | HQ or M | 4     | 2.8 - 3.5 GHz |
 | [HP EliteBook 820 G2](http://store.hp.com/us/en/pdp/Laptops/hp-elitebook-820-g2-notebook-pc-%28energy-star%29-p-l3z41ut-aba--1) | $1,719    | i7-5600U  | i7        | 5th      | U       | 2     | 2.6 GHz       |
@@ -79,9 +78,10 @@ The table below shows the current PB configuration and pricing for these models 
 | [Apple](http://www.apple.com/macbook-pro/specs-retina/)               | $2,500    | i7-4980HQ | i7        | 4th      | H       | 4     | 2.8 GHz       |
 
 
+ ## Memory, size and other elements
 
 
-| Memory              | type  | cache        | Size | type   | form | Keyboard | Weight   | size    |            |
+| Memory              | Type  | Cache        | Size | Type   | Form | Keyboard | Weight   | size    |            |
 |---------------------|-------|--------------|------|--------|------|----------|----------|---------|------------|
 |[Current (2012)](http://www.cnet.com/products/hp-elitebook-2560p-12-5-core-i7-2640m-windows-7-pro-64-bit-8-gb-ram-500-gb-hdd/specs/)      | 12 GB | DDR3         | 3 MB | 120 GB | SSD  | SSD      | standard | 4.0 lbs | 12.5"      |
 | *Desired*             | 16 GB | DDR3 or DDR4 | 6 MB | 500 GB | SSD  | Pcle     | backlit  | < 5lbs  | 14" -15.6" |
