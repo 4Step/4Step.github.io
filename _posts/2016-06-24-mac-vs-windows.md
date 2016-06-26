@@ -36,7 +36,7 @@ brew upgrade sqlitebrowser
 
 **5. Modern open source programs**: Hadoop ecosystem, IBM Infosphere, Google Analytics API, IPython and most of its libraries are few popular open source used in data analysis and all are written for UNIX/ Linux. Whether it’s to do a distributed systems or parallel computing or to run bigdata on cloud, it can be more easily done from Linux based systems. Most of the Github is written for Linux and several of its plugins / services are heavily supported for Linux and Mac over PC. In fact if one checks any youtube video on Git training or Python or R or BigData or another computing / analysis course, most of the trainers’ screen show Mac and tutorials shortcuts are geared for Mac / Linux over PC. In most of these tutorials, there is a heavy mentioning of Mac shortcuts and tips. Although this is not a my point to argue for Mac but it does prove that modern languages and programs are well supported on Mac. Ruby, RubyGems, Ruby on Rails are another example of less supported modern language on Windows7 . This is true even for newer versions of windows like (win 8 or win10).
 
-
+We recently wrote a custom C++ program that uses a cross-platform RCPP libraries (RTOOLS for Windows and built-in XCODE for MAC). Since I was using Windows PC, I had to use the RTOOLS library and support for RTOOLS was not that great and wasn't the primary focus of RCPP developers, although they were helpful in resolving the issue.  
 
 
 ## Better hardware and Software Integrations
@@ -51,7 +51,12 @@ brew upgrade sqlitebrowser
 I started writing this topic in notes (MAC), for easy editing. Below is the screenshot of the notes under progress.
 ![Mac Notes]({{ site.url }}/assets/Mac_over_windows.png)
 
+**5. Light Weight (& portability)**: Macbook pro weighs only about 4 pounds and the same configuration on pc laptops weighs about 8 pounds. This makes MacBook Pro more portable and convenient during travel and  remote work. I used 13” Elite Book for about 4 years (till it died last week) and a similar one for another 2 years before that. Back then the need was to have a lighter laptop that is easy to carry while commuting (on lightrail in Portland). The downside to it was less computation power (even with 12 GB RAM, it struggled to run more than 4 programs efficiently). Another downside is capturing screenshots for documentation was a challenge due to small screen size. Also it got a smaller hard-drive (120 GB) and that leaves with less than 10GB space.
 
+**6. Other reasons**:
+1. Dual configurations: MAC can run Windows (also popular opinion is MACs can run windows more efficiently than most PCs).
+2. Hard-drive: We can get up to 500 GB PCle harddrive which are not even available for Windows.
+3. Display: Well although not a productivity tool, the retina display offers stunning resolution than a standard HP monitor.
 
 
 ## Cross platform development
@@ -63,7 +68,12 @@ In this day and year, we don’t need to rely on just doing work on one platform
 Increase ability to write programs in open source framework such as python or R or even newer C++ which works on multiple platforms. Unfortunately leading travel demand modeling softwares CUBE and TransCAD are still windows only applications keeping the entire practice at bay. However the two vendors are much aware of the trend and may unveil their Mac / Linux versions anytime and at that point we don’t want to be the late adopters. It’s not as simple as get a Mac install Mac version and build the program. This takes several months of practice ignorer to efficient build custom applications that are of impressive quality.
 
 
+
 ## Pricing and Configuration
+ We are provided with 5 laptop choices but in reality this is more like two choices (Elitebook and ZBook), see my spreadsheet, the only difference across the first 3 is just the screen size.
+1. The first, Elitebook, configuration is much lower than what I currently use (both in CPU Clock speed(2.8 vs 2.6 GHz)  and Class (M vs U), as well as memory (8 vs 12 GB).
+2. The second choice (ZBook) is outright heavy, expensive for its class and of course UGLY.
+
 The table below shows the current PB configuration and pricing for these models is downloaded from the HP website.
 
 |   Type                  |  Price         | Series    | Processor | Gen      | Class   | Cores | clock speed   |
@@ -78,7 +88,7 @@ The table below shows the current PB configuration and pricing for these models 
 | [Apple](http://www.apple.com/macbook-pro/specs-retina/)               | $2,500    | i7-4980HQ | i7        | 4th      | H       | 4     | 2.8 GHz       |
 
 
- ## Memory, size and other elements
+## Memory, size and other elements
 
 
 | Memory              | Type  | Cache        | Size | Type   | Form | Keyboard | Weight   | size    |            |
