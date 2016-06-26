@@ -48,7 +48,8 @@ We recently wrote a custom C++ program that uses a cross-platform RCPP libraries
 
 **4. Integration onto devices**: Most of the apps are cross-platforms or cross-devices, meaning I can have a textPad app on MacBook, iPad and iPhone and start making notes on one device but can also edit on other devices. For instance I cannot write of all the differences between Mac and PC in one take and so I started this on my MacBook, and while I am walking I added a point or two to this edition from my iPhone and then when I relaxing on my patio I added couple of more points via iPad. I was able to do this as this app is available on all the devices (pre-installed) and is seamlessly synced via cloud account (gmail). Apps such as this makes taking notes lot easier and improves efficiency by not losing the thought.
 
-I started writing this topic in notes (MAC), for easy editing. Below is the screenshot of the notes under progress.
+I started writing this topic on Notes in MacBook Pro and have used both IPhone and IPad to add more content as the day progressed. Below is the screenshot showing the same notes on two different devices.
+
 ![Mac Notes]({{ site.url }}/assets/Mac_over_windows.png)
 
 **5. Light Weight (& portability)**: Macbook pro weighs only about 4 pounds and the same configuration on pc laptops weighs about 8 pounds. This makes MacBook Pro more portable and convenient during travel and  remote work. I used 13” Elite Book for about 4 years (till it died last week) and a similar one for another 2 years before that. Back then the need was to have a lighter laptop that is easy to carry while commuting (on lightrail in Portland). The downside to it was less computation power (even with 12 GB RAM, it struggled to run more than 4 programs efficiently). Another downside is capturing screenshots for documentation was a challenge due to small screen size. Also it got a smaller hard-drive (120 GB) and that leaves with less than 10GB space.
