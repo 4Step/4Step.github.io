@@ -61,3 +61,33 @@ MS office for documentation, which hasn’t improved in several years (lacks mar
 In this day and year, we don’t need to rely on just doing work on one platform since that’s only where our work actual runs (referring to exclusive based windows programs). The new generation is all about cross-platform development and web-based mobile applications. I should be able to edit a wiki-page [NERPM43 wiki page](https://github.com/4Step/NERPM43/releases) or reply to clients comment or fix an issue [client comments](https://github.com/4Step/NERPM43/issues/8) for the user’s guide I wrote while I am sipping my morning coffee rather than come-in to the office and work exclusive on a word document that is saved only on the PB intranet. Working on newer windows (win10) is fine but since we are provided with win7, these things are not well integrated, making my day go worse in trying to get these things workings (sometime a webpage may have trouble integrating well with the text editor, sometimes it doesn’t sync to cloud, sometimes UNIX terminal crashes, sometimes wifi is not connected due to low end old wifi-card and the list goes on).
 
 Increase ability to write programs in open source framework such as python or R or even newer C++ which works on multiple platforms. Unfortunately leading travel demand modeling softwares CUBE and TransCAD are still windows only applications keeping the entire practice at bay. However the two vendors are much aware of the trend and may unveil their Mac / Linux versions anytime and at that point we don’t want to be the late adopters. It’s not as simple as get a Mac install Mac version and build the program. This takes several months of practice ignorer to efficient build custom applications that are of impressive quality.
+
+
+## Pricing and Configuration
+The table below shows the current PB configuration and pricing for these models is downloaded from the HP website.
+
+| Price               | Processor |           |           |          |         |       |               |
+|---------------------|-----------|-----------|-----------|----------|---------|-------|---------------|
+|                     |           | series    | processor | gen      | class   | Cores | clock speed   |
+| [Current (2012)](http://www.cnet.com/products/hp-elitebook-2560p-12-5-core-i7-2640m-windows-7-pro-64-bit-8-gb-ram-500-gb-hdd/specs/)     | $2,500    | i7-2640 M | i7        | 2nd      | M       | 2     | 2.8 GHz       |
+| *Desired*            | $2,500    |           | i7        | 4 or 5th | HQ or M | 4     | 2.8 - 3.5 GHz |
+| [HP EliteBook 820 G2](http://store.hp.com/us/en/pdp/Laptops/hp-elitebook-820-g2-notebook-pc-%28energy-star%29-p-l3z41ut-aba--1) | $1,719    | i7-5600U  | i7        | 5th      | U       | 2     | 2.6 GHz       |
+| [HP EliteBook 840 G2](http://store.hp.com/us/en/pdp/Laptops/hp-elitebook-840-g2-notebook-pc-%28energy-star%29) | $1,649    | i7-5600U  | i7        | 5th      | U       | 2     | 2.6 GHz       |
+| [HP EliteBook 850 G2](http://store.hp.com/us/en/pdp/Laptops/hp-elitebook-850-g2-notebook-pc-%28energy-star%29-p-l4a27ut-aba--1) | $1,669    | i7-5600U  | i7        | 5th      | U       | 2     | 2.6 GHz       |
+| [HP ZBook 15 G2](http://store.hp.com/us/en/pdp/Laptops/hp-zbook-15-g2-mobile-workstation-%28energy-star%29-p-f1m37ut-aba--1)      | $2,499    | i7-4810MQ | i7        | 4th      | M       | 4     | 2.8 GHz       |
+| [HP ZBook 17 G2](http://store.hp.com/us/en/pdp/Laptops/hp-zbook-17-g2-mobile-workstation-%28energy-star%29-p-k4k44ut-aba--1)      | $2,633    | i7-4810MQ | i7        | 4th      | M       | 4     | 2.8 GHz       |
+| [Apple](http://www.apple.com/macbook-pro/specs-retina/)               | $2,500    | i7-4980HQ | i7        | 4th      | H       | 4     | 2.8 GHz       |
+
+
+
+
+| Memory              | type  | cache        | Size | type   | form | Keyboard | Weight   | size    |            |
+|---------------------|-------|--------------|------|--------|------|----------|----------|---------|------------|
+| (2012)](http://www.cnet.com/products/hp-elitebook-2560p-12-5-core-i7-2640m-windows-7-pro-64-bit-8-gb-ram-500-gb-hdd/specs/)      | 12 GB | DDR3         | 3 MB | 120 GB | SSD  | SSD      | standard | 4.0 lbs | 12.5"      |
+| *Desired*             | 16 GB | DDR3 or DDR4 | 6 MB | 500 GB | SSD  | Pcle     | backlit  | < 5lbs  | 14" -15.6" |
+| [HP EliteBook 820 G2](http://store.hp.com/us/en/pdp/Laptops/hp-elitebook-820-g2-notebook-pc-%28energy-star%29-p-l3z41ut-aba--1) | 8 GB  | DDR3         | 4 MB | 256 GB | SSD  | SSD      |          | 2.94 lb | 12.5"      |
+| [HP EliteBook 840 G2](http://store.hp.com/us/en/pdp/Laptops/hp-elitebook-840-g2-notebook-pc-%28energy-star%29) | 8 GB  | DDR3         | 4 MB | 256 GB | SSD  | SSD      |          | 3.4 lb  | 14.0"      |
+| [HP ZBook 15 G2](http://store.hp.com/us/en/pdp/Laptops/hp-zbook-15-g2-mobile-workstation-%28energy-star%29-p-f1m37ut-aba--1) | 8 GB  | DDR3         | 4 MB | 256 GB | SSD  | SSD      |          | 4.0 lb  | 15.6"      |
+| [HP ZBook 15 G2](http://store.hp.com/us/en/pdp/Laptops/hp-zbook-15-g2-mobile-workstation-%28energy-star%29-p-f1m37ut-aba--1)       | 16 GB | DDR3         | 6 MB | 256 GB | SSD  | Pcle     |          | 6.13 lb | 15.6"      |
+| [HP ZBook 17 G2](http://store.hp.com/us/en/pdp/Laptops/hp-zbook-17-g2-mobile-workstation-%28energy-star%29-p-k4k44ut-aba--1)      | 16 GB | DDR3         | 6 MB | 512 GB | SSD  | SSD      |          | 7.42 lb | 17.0"      |
+| [Apple](http://www.apple.com/macbook-pro/specs-retina/)              | 16 GB | DDR3         | 6 MB | 512 GB | SSD  | Pcle     | backlit  | 4.5 lbs | 15.6"      |
